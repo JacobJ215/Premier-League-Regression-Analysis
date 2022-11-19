@@ -4,7 +4,7 @@
 
 In this repo you will find two notebooks exploring the basics of  linear regression analysis. Here we are working with the [Premier League dataset](Data/EPL_Soccer_MLR_LR.csv), where the goal is to predict  the the score of a Scocer player given various features. 
 
-**Notebook 1** [Simple Linear Regression](simple_regression.ipynb) utilizes a univariate statsmodels `sm.OLS()` model to  solve this problem, while **Notebook 2** [Multi-Linear Regression](multiple_linear_regression.ipynb) uses a multivariate approach while implementing both the statsmodels `sm.OLS` and Scikit_Learn's `LinearRegression`, where the model is evaluated against the R-Squared and Root Mean Squared error.
+**Notebook 1** [Simple Linear Regression](simple_regression.ipynb) utilizes a univariate statsmodels `sm.OLS()` model to  solve this problem, while **Notebook 2** [Multi-Linear Regression](multiple_linear_regression.ipynb) uses a multivariate approach while implementing both the statsmodels `sm.OLS()` and Scikit_Learn's `LinearRegression()`, where the model is evaluated against the R-Squared and Root Mean Squared error.
 
 ### Install necessary libraries 
 
